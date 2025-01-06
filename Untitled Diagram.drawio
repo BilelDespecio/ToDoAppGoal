@@ -238,7 +238,7 @@
             <mxPoint x="-2" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN9gZpfQTIX6OTG0D9L9-21" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 700; text-wrap-mode: wrap;&quot;&gt;prendre en co&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 700; text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;m&lt;/span&gt;pte&lt;/span&gt;&lt;/span&gt;" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_LXqQzPWG_b7VF4bqw6R-8" edge="1">
+        <mxCell id="QN9gZpfQTIX6OTG0D9L9-21" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 700; text-wrap-mode: wrap;&quot;&gt;prendre en co&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 700; text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;m&lt;/span&gt;pte&lt;/span&gt;&lt;/span&gt;" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_LXqQzPWG_b7VF4bqw6R-8" edge="1" target="ThfnTFmeM0lMzj31UHYW-24">
           <mxGeometry x="0.0239" y="10" relative="1" as="geometry">
             <mxPoint x="-2228" y="-1615" as="sourcePoint" />
             <mxPoint x="-2128" y="-1585" as="targetPoint" />
